@@ -4,3 +4,7 @@
 
 ## Usage
 Copy this file to your repo and make adjustments.  Can act as boilerplate for golang cli tools and binaries.
+
+## License
+
+MIT © Tyler Boright
